@@ -1,0 +1,12 @@
+psutil
+watchdog
+scapy
+
+# linux based tool for window monitoring
+sudo apt-get install xdotool
+
+# for entworking monitoring 
+# sudo python acativity_tracker.py 
+
+# for basic tracking 
+# python activity_tracker.py 
